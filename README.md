@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/KernFerm/Go-Fish-Discord-Bot/blob/main/go-fish.png" alt="Description of Image" width="300">
+</p>
+
 # Go Fish Discord Bot 🎮🐟
 
 Welcome to the **Go Fish Discord Bot**! This fun and interactive bot brings the classic card game **Go Fish** to your Discord server, offering hours of entertainment for your community.

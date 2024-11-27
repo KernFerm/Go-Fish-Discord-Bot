@@ -50,7 +50,7 @@ For troubleshooting or setup assistance, head over to our **`#go-fish-support-in
 ## 👥 Need Help?
 - **Support**: Our friendly team is available in the `#go-fish-support-install` channel.
 - **Community**: Connect with other users playing the bot and share your experiences!
-
+- make sure the bot is invited to your server and in your server before i put bot online.
 ---
 
 ## 🎉 Join the Fun Today!

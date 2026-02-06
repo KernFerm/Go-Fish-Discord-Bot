@@ -1,0 +1,22 @@
+{
+    "name": "go-fish-discord-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot that implements a Go Fish card game using slash commands.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "discord",
+        "bot",
+        "nodejs",
+        "slash-commands",
+        "go-fish"
+    ],
+    "author": "Bubbles-The-Dev",
+    "license": "Private",
+    "dependencies": {
+        "discord.js": "^14.16.3",
+        "dotenv": "^16.4.5"
+    }
+}

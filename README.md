@@ -15,23 +15,6 @@ Welcome to the **Go Fish Discord Bot**! This fun and interactive bot brings the 
 
 ---
 
-## 🔗 How to Add the Bot to Your Server
-To add the **Go Fish Bot** to your Discord server, follow these simple steps:
-
-1. **Join Our Discord Server**:
-   - The bot is exclusively available to users who join our **fnbubbles420 org community server**.
-   - Click the link below to join:
-     👉 [Join Our Discord Server](https://discord.fnbubbles420.org/invite)
-
-2. **Head to the `#go-fish-support-install` Channel**:
-   - Once inside the server, navigate to the **`#go-fish-support-install`** channel.
-   - Follow the instructions provided to request the bot.
-
-3. **Get the Bot Invite Link**:
-   - Our team will verify your request and provide the invite link to add the bot to your server.
-
----
-
 ## 📋 Commands Overview
 Here are the main commands to get started:
 
@@ -47,12 +30,5 @@ For troubleshooting or setup assistance, head over to our **`#go-fish-support-in
 
 ---
 
-## 👥 Need Help?
-- **Support**: Our friendly team is available in the `#go-fish-support-install` channel.
-- **Community**: Connect with other users playing the bot and share your experiences!
-### - make sure the bot is invited to your server and in your server before i put bot online.
----
-
-## 🎉 Join the Fun Today!
-Add the **Go Fish Bot** to your Discord server and make your community gaming sessions more exciting!  
-[Join Our Discord Server](https://discord.fnbubbles420.org/invite)
+# Support FNBubbles420 Org 501(c)(3)
+- [https://www.fnbubbles420.org/](https://www.fnbubbles420.org)

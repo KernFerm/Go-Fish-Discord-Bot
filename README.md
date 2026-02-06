@@ -1,3 +1,7 @@
+> it is out of date you may need to update code!!
+
+
+
 <p align="center">
   <img src="https://github.com/KernFerm/Go-Fish-Discord-Bot/blob/main/go-fish.png" alt="Description of Image" width="300">
 </p>

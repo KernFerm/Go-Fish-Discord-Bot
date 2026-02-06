@@ -29,9 +29,6 @@ Here are the main commands to get started:
 | `/join`              | Join an ongoing game.             |
 | `/play`              | Ask another player for a card rank.|
 
-### 🔧 Support Commands:
-For troubleshooting or setup assistance, head over to our **`#go-fish-support-install`** channel.
-
 ---
 
 # Support FNBubbles420 Org 501(c)(3)

@@ -17,6 +17,6 @@
     "license": "GNU",
     "dependencies": {
         "discord.js": "^14.25.1",
-        "dotenv": "^17.2.4"
+        "dotenv": "^18.0.1"
     }
 }
